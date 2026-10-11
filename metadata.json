@@ -1,0 +1,6 @@
+{
+  "name": "Vaulta - Cryptographic Storage & Secure Vaults",
+  "description": "High-security, zero-knowledge cryptographic cloud storage, telemetry analytics, and sovereign client collaboration vaults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
